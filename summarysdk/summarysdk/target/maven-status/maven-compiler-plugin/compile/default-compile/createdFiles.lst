@@ -1,0 +1,5 @@
+com\stackroute\summarysdk\SummarysdkApplication.class
+com\stackroute\summarysdk\dto\AIResponse.class
+com\stackroute\summarysdk\dto\MeetingRequest.class
+com\stackroute\summarysdk\controller\SdkController.class
+com\stackroute\summarysdk\service\SdkService.class
