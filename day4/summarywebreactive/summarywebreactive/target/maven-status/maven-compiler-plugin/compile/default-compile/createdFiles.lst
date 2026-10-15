@@ -1,0 +1,12 @@
+com\stackroute\summarywebreactive\dto1\SummaryResponse.class
+com\stackroute\summarywebreactive\dto1\StructuredSummaryResponse.class
+com\stackroute\summarywebreactive\dto1\UserConversation.class
+com\stackroute\summarywebreactive\service\WebclientAIService.class
+com\stackroute\summarywebreactive\dto\AIResponse.class
+com\stackroute\summarywebreactive\dto1\WorkshopRequest.class
+com\stackroute\summarywebreactive\dto1\UserHistoryResponse.class
+com\stackroute\summarywebreactive\SummarywebreactiveApplication.class
+com\stackroute\summarywebreactive\config\WebClientConfig.class
+com\stackroute\summarywebreactive\dto\MeetingRequest.class
+com\stackroute\summarywebreactive\dto1\MailDraftResponse.class
+com\stackroute\summarywebreactive\controller\WebclientController.class
